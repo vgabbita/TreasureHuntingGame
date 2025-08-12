@@ -1,0 +1,14 @@
+You're an explorer who has stumbled upon the
+pyramid of a famous Pharaoh that's said to
+hold vast treasures. You'll explore the
+pyramid, entering various rooms and
+completing different tasks. Along the way,
+you'll have to encounter snakes and other
+monsters, transcribe a secret scroll, and
+find the Pharaoh's final resting place.
+Beware: you'll only have 3 minutes to find the
+treasure. Good luck, explorer. You'll need it.
+
+For movement, use WASD or the arrow keys.
+To jump, press space.
+To interact with objects, press X.
